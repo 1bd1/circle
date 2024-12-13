@@ -33,7 +33,7 @@ double polomer = 100;
 
     public static double vypocetObsahuKruhu(double polomer) {
 
-        return (Math.pow(polomer,2))*Math.PI;
+        return ((Math.pow(polomer,2))*Math.PI);
     }
 
 
@@ -41,3 +41,4 @@ double polomer = 100;
 
 }
 
+//https://github.com/1bd1/circle/
